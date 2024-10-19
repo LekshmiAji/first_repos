@@ -7,6 +7,7 @@ public class Hierarch_Child1 extends Hierarch_Parent {
 	public static void main(String[] args) {
 		Hierarch_Child1 ob=new Hierarch_Child1();
 		ob.Palindrome();
+		ob.Factorial();
 
 	}
 	public void Palindrome()

@@ -6,6 +6,7 @@ public class Hierarch_Child2 extends Hierarch_Parent {
 		Hierarch_Child2 object=new Hierarch_Child2();
 		object.display();
 		object.Factorial();
+		
 
 	}
 	public void display()
